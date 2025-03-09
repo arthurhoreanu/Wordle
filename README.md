@@ -4,7 +4,7 @@ Welcome to **Wordle**, a fun and engaging word-guessing game! This project is a 
 
 ## Functionalities
 
-- **Server-Client Architecture**: The game uses a Python server to handle game logic and a PHP client for user interaction.
+- **Client-Server Architecture**: The game uses a Python server to handle game logic and a PHP client for user interaction.
 - **Word Validation**: Each guess is validated and feedback is provided to the player.
 - **Feedback Mechanism**: Letters are marked as:
   - 🟩 **Green**: Correct letter in the correct position.
